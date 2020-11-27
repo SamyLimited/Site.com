@@ -1,8 +1,4 @@
-/* 
-Assan Education template
-Author - design_mylife
-Project Version - v1.0
- */
+
 (function ($) {
     "use strict";
     /**Preloader*/
