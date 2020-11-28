@@ -167,10 +167,11 @@
                                     <div class="form-group col-md-6">
                                         <input
                                             class="form-control"
-                                            type="date"
+                                            type="text"
                                             placeholder="dd-mm-yyyy"
-                                            value=""
                                             min="2020-12-12"
+                                            onfocus="(this.type='date')"
+                                            onblur="(this.type='text')"
                                         />
                                     </div>
                                 </div>
